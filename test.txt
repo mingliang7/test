@@ -2,5 +2,10 @@ try this
 
 kdor ey te
 
+<<<<<<< HEAD
 kdor Seyha
 
+=======
+
+kunthea
+>>>>>>> upstream/master
