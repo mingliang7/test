@@ -3,9 +3,13 @@ try this
 kdor ey te
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 kdor Seyha
 
 =======
 
 kunthea
+>>>>>>> upstream/master
+=======
+Ach Kour
 >>>>>>> upstream/master
